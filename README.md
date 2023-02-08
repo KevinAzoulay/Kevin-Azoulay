@@ -2,7 +2,7 @@
 <h3 align="center">A multi-cultural web-developer from Paris / Tel Aviv.</h3>
 
 
-- 🔭 I’m currently working on Draw and Guess, [a project using Nuxt]
+- 🔭 I’m currently working on an real-time collaboration.
 
 - 🌱 I’m currently learning **<protobuf>, Python and grinding through "The Linux Foundation"**
 
